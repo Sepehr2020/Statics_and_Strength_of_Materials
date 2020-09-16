@@ -1,0 +1,1 @@
+# Statics_and_Strength_of_Materials
