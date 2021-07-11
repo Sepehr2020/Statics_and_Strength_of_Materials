@@ -1,1 +1,1 @@
-This repository includes a project done for “Statics/Strength of Materials” course at Simon Fraser University.
+Course Description: Covers fundamental concepts of Statics and Strength of Materials. Statics: 2D and 3D force and moment systems. equilibrium of rigid bodies, analysis of structures, distributed forces, centroids and moments of inertia. Strength of Materials: introduction to stress and strain, axial loading, torsion, pure bending, analysis and design of beams for bending and combined loading, deflection of beams, and transformation of stresses.
